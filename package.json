@@ -1,6 +1,6 @@
 {
-  "name": "backend",
-  "private": true,
+  "name": "snapnews-api",
+  "private": false,
   "scripts": {
     "start": "meteor run"
   },
